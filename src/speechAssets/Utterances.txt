@@ -1,0 +1,5 @@
+  OneShotPriceCheck how much is an uber to {Address}
+  OneShotPriceCheck what's the price of an uber to {Address}
+  OneShotPriceCheck check uber prices to {Address}
+  OneShotPriceCheck prices to {Address}
+  OneShotPriceCheck give me prices to {Address}

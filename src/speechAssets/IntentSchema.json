@@ -1,0 +1,16 @@
+{
+  "intents": [
+    {
+      "intent": "OneShotPriceCheck",
+      "slots": [
+        {
+          "name": "Address",
+          "type": "LIST_OF_ADDRESSES"
+        }
+      ]
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    }
+  ]
+}

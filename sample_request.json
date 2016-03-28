@@ -1,0 +1,27 @@
+{
+  "session": {
+    "sessionId": "SessionId.ac552cca-857a-41e0-9db1-d5bb26d400ae",
+    "application": {
+      "applicationId": "amzn1.echo-sdk-ams.app.foobar"
+    },
+    "user": {
+      "userId": "foobar"
+    },
+    "new": true
+  },
+  "request": {
+    "type": "IntentRequest",
+    "requestId": "EdwRequestId.1ef49125-e2a8-42e9-8ca3-c52b0b36528d",
+    "timestamp": "2016-03-24T18:43:14Z",
+    "intent": {
+      "name": "OneShotPriceCheck",
+      "slots": {
+        "Address": {
+          "name": "Address",
+          "value": "Houndstooth Congress"
+        }
+      }
+    }
+  },
+  "version": "1.0"
+}

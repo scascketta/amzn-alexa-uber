@@ -1,0 +1,9 @@
+{
+  "name": "handler",
+  "description": "Alexa Uber project",
+  "role": "<BASIC_LAMBDA_EXEC_ROLE>",
+  "runtime": "nodejs",
+  "handler": "index.handler",
+  "memory": 128,
+  "timeout": 15
+}
